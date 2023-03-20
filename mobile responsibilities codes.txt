@@ -1,0 +1,63 @@
+.menu {
+    width: 30%;
+    height: 100%;
+    background-color: #ecf0f3;
+}
+.menu-background {
+    height: 30px;
+    transform: translateX(-25px);
+}
+.create-icon {
+    width: 20px;
+    transform: translateY(5px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: yellow;
+      }
+    .menu {
+        width: 30%;
+        height: 100%;
+        background-color: #ecf0f3;
+    }
+    .menu-background {
+        height: 30px;
+        transform: translateX(-25px);
+    }
+    .create-icon {
+        width: 20px;
+        transform: translateY(5px);
+    }
+    .h6{
+        transform: translateX(-25);
+    }
